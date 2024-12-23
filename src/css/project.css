@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+}
+.teamPhoto{
+    /* width: 80%; */
+    width: 500px;
+    min-height: 200px;
+}
+.text{
+    width: 70%;
+    text-align: center;
+}
