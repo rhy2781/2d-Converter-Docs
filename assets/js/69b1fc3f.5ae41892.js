@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_2_d_converter_docs=self.webpackChunk_2_d_converter_docs||[]).push([[9065],{9186:e=>{e.exports=JSON.parse('{"tags":[{"label":"Releases","permalink":"/2d-Converter-Docs/docs/tags/releases","count":1},{"label":"Docusaurus","permalink":"/2d-Converter-Docs/docs/tags/docusaurus","description":"Docs related to the Docusaurus framework","count":1}]}')}}]);
